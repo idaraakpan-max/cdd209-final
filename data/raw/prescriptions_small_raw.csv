@@ -1,0 +1,115 @@
+patient_id,fill_date,drug_name,days_supply,quantity_dispensed,refill_number,patient_age,sex,zip_code,prescriber_id,pharmacy_name,copay_amount,adherence_flag,proportion_days_covered
+P001,2024-12-30,amoxicillin,60,60,0,34,f,94720,D123,walgreens pharmacy,19.73,0,0.61
+P001,Jan 26 2025,PANTOPRAZOLE,60,120,,34,f,94720,D208,csv pharmacy,9,1,0.79
+P001,Mar 02 2025,AMLODIPINE 5MG,30days,30,,34,f,94720,D217,Walgreens,12.6,0,0.54
+P001,2025-04-04,Metformin HCl,90 days,90,3,34,f,94720,D159,CSV #13239,$16.55,0,0.72
+P002,12/30/2024,Albuterol 180mcg,90 days,30,,40,F,90210,D197,Walgreens #83887,17.18,0,0.56
+P002,2025-01-29,PANTOPRAZOLE,90days,30,,40,F,90210,D116,Walgreens #74342,$9,0,0.67
+P002,2-28-25,Lisinopril,120days,120,2,40,F,90210,D290,CSV #73580,22.69,0,0.59
+P002,04/02/2025,ALBUTEROL,120,90,3,40,F,90210,D128,csv pharmacy,$9.39,0,0.69
+P002,5-5-25,ALBUTEROL,30days,120,,40,F,90210,D284,walgreens pharmacy,$12,0,0.69
+P003,Dec 29 2024,ALBUTEROL,120 days,30,,34,F,,D176,walgreens pharmacy,24,0,0.35
+P003,2025-01-28,AMOXICILLIN,90days,60,1,34,F,,D128,csv pharmacy,15.79,0,0.67
+P004,12/28/2024,ATORVASTATIN 20MG,60,60,,50,M,,D293,csv pharmacy,$18,0,0.6
+P004,2-1-25,lisinopril,90 days,120,1,50,M,,D186,walgreens pharmacy,22,0,0.57
+P004,2025-03-06,Atorvastatin,60,30,,50,M,,D118,CSV #67392,$6.42,1,0.81
+P004,3-30-25,PANTOPRAZOLE,60,120,3,50,M,,D124,CSV #86375,$9.86,1,0.8
+P005,Jan 06 2025,PANTOPRAZOLE,30,30,0,72,f,94110,D148,csv pharmacy,$13.05,0,0.64
+P005,2025-01-28,Levothyroxine 200mg,90,120,,72,f,94110,D238,csv pharmacy,10,1,0.87
+P005,3-3-25,Metformin HCl,120 days,120,2,72,f,94110,D199,CSV #34761,$9.27,1,0.86
+P005,04/04/2025,Metformin HCl,120,60,3,72,f,94110,D112,walgreens pharmacy,8.8,1,0.76
+P006,12/29/2024,levothyroxine,30,30,,40,m,94107,D252,CVS,$18.5,0,0.54
+P006,Feb 05 2025,Atorvastatin,90days,90,1,40,m,94107,D271,Walgreens,$9,1,0.82
+P006,2025-02-26,METFORMIN 500MG,30 days,120,2,40,m,94107,D189,CSV #9017,$17,0,0.53
+P006,2025-03-29,escitalopram,120days,90,3,40,m,94107,D167,Walgreens #14030,17.23,0,0.59
+P006,Apr 28 2025,atorvastatin,90days,90,,40,m,94107,D113,Walgreens,$17,0,0.65
+P007,1-6-25,Albuterol 180mcg,90,60,0,20,F,94103,D276,CVS,$19,0,0.49
+P007,Feb 04 2025,AMLODIPINE 5MG,60,120,1,20,F,94103,D274,CVS,$7,0,0.73
+P008,Dec 29 2024,PANTOPRAZOLE,120,30,,39,Male,94103,D140,Walgreens,8.59,0,0.66
+P008,2-2-25,AMLODIPINE 5MG,60days,60,1,39,Male,94103,D106,Walgreens,$21,0,0.59
+P009,2025-01-06,ATORVASTATIN 20MG,120 days,90,0,28,F,90210,D127,CSV #78194,$23,0,0.43
+P009,02/01/2025,ATORVASTATIN 20MG,30,120,1,28,F,90210,D233,Walgreens #90028,22,0,0.38
+P009,Mar 02 2025,AMOXICILLIN,120days,30,,28,F,90210,D176,Walgreens #40539,$23.98,0,0.46
+P009,04/01/2025,LEVOTHYROXINE,120,90,,28,F,90210,D245,walgreens pharmacy,16.09,0,0.58
+P010,01/05/2025,ALBUTEROL,90,120,,58,Male,,D121,Walgreens #67562,13.84,0,0.67
+P010,01/31/2025,PANTOPRAZOLE,30 days,60,1,58,Male,,D111,walgreens pharmacy,18.46,0,0.55
+P010,3-4-25,albuterol,120,60,2,58,Male,,D267,CVS,$19.37,0,0.55
+P011,12-27-24,escitalopram,60days,30,,42,f,,D284,walgreens pharmacy,$14.13,0,0.64
+P011,01/28/2025,Pantoprazole 40mg,120days,120,,42,f,,D161,CVS,$10,0,0.64
+P011,2025-02-28,Lisinopril,90 days,90,,42,f,,D277,csv pharmacy,11.39,1,0.8
+P011,4-2-25,Metformin HCl,120 days,90,,42,f,,D297,CVS,15.85,0,0.57
+P012,12/31/2024,albuterol,120 days,120,,68,M,90210,D224,CSV #3805,$15.76,0,0.63
+P012,2025-01-28,levothyroxine,120,60,,68,M,90210,D209,csv pharmacy,24.61,0,0.51
+P012,Mar 01 2025,Amlodipine,120,90,,68,M,90210,D164,CVS,9.23,1,0.77
+P012,2025-03-27,pantoprazole,90,60,3,68,M,90210,D105,csv pharmacy,18,0,0.73
+P013,2025-01-03,pantoprazole,90 days,90,0,80,m,94066,D248,walgreens pharmacy,$8.36,1,0.88
+P013,02/01/2025,lisinopril,60days,30,,80,m,94066,D300,walgreens pharmacy,$16.84,0,0.67
+P013,Mar 07 2025,metformin,90,30,2,80,m,94066,D210,Walgreens,15,1,0.77
+P013,4-2-25,Levothyroxine 200mg,60,90,,80,m,94066,D162,Walgreens,17,0,0.7
+P014,Jan 03 2025,PANTOPRAZOLE,90days,60,,79,F,94110,D252,walgreens pharmacy,14.75,0,0.7
+P014,2-3-25,albuterol,60 days,30,,79,F,94110,D282,CVS,9.83,0,0.72
+P014,Mar 01 2025,escitalopram,60days,120,,79,F,94110,D235,Walgreens #55772,18.84,0,0.65
+P014,Apr 01 2025,Atorvastatin,90,120,,79,F,94110,D130,Walgreens #70237,10,1,0.91
+P015,Dec 31 2024,Atorvastatin,90days,30,,44,f,,D103,csv pharmacy,$21,0,0.59
+P015,01/26/2025,Amoxicillin 40mg,30,90,1,44,f,,D246,Walgreens,$18.95,0,0.46
+P015,3-2-25,lisinopril,60,30,,44,f,,D118,Walgreens #82503,10.05,1,0.75
+P015,03/29/2025,lisinopril,60,90,,44,f,,D197,CSV #59050,6.7,1,0.79
+P015,2025-05-02,pantoprazole,90 days,30,,44,f,,D269,csv pharmacy,17,0,0.71
+P016,Jan 03 2025,ESCITALOPRAM,120days,90,0,40,M,,D275,Walgreens #34676,5.65,1,0.83
+P016,02/05/2025,Amoxicillin 40mg,60 days,120,1,40,M,,D118,CSV #7817,7.3,0,0.73
+P017,12-31-24,Levothyroxine 200mg,120,90,,56,M,,D288,CSV #42248,15.01,0,0.58
+P017,Jan 27 2025,amoxicillin,60,30,,56,M,,D232,CSV #85395,24,0,0.45
+P017,3-6-25,AMLODIPINE 5MG,120,120,,56,M,,D271,CSV #13711,$24.38,0,0.54
+P017,2025-04-03,Levothyroxine 200mg,90,120,,56,M,,D182,walgreens pharmacy,21.27,0,0.67
+P017,May 06 2025,AMOXICILLIN,120,120,4,56,M,,D152,csv pharmacy,$6,1,0.96
+P018,2025-01-06,Albuterol 180mcg,60,60,0,82,M,94110,D129,Walgreens #15397,11,0,0.73
+P018,2-2-25,albuterol,90 days,90,,82,M,94110,D137,walgreens pharmacy,13.31,1,0.8
+P018,2-27-25,Amlodipine,30days,90,,82,M,94110,D285,walgreens pharmacy,$20.45,0,0.63
+P018,3-29-25,Levothyroxine 200mg,120days,120,,82,M,94110,D161,csv pharmacy,$11.9,1,0.85
+P018,4-26-25,levothyroxine,90 days,120,4,82,M,94110,D132,CSV #65837,19.1,1,0.76
+P019,12/27/2024,METFORMIN 500MG,60,120,,32,m,,D259,Walgreens #52099,22.42,0,0.51
+P019,1-31-25,Albuterol 180mcg,120,90,1,32,m,,D261,csv pharmacy,17.54,0,0.55
+P019,Mar 03 2025,metformin,30,30,2,32,m,,D175,Walgreens,13,0,0.64
+P019,2025-03-30,AMOXICILLIN,120,60,,32,m,,D249,Walgreens,$8,0,0.71
+P019,5-3-25,amlodipine,90 days,30,,32,m,,D188,Walgreens #39211,$22.98,0,0.51
+P020,Jan 02 2025,amoxicillin,120days,30,0,52,F,94066,D268,CVS,9.74,0,0.69
+P020,Feb 05 2025,pantoprazole,30 days,120,1,52,F,94066,D262,CSV #24921,21,0,0.53
+P020,3-7-25,Metformin HCl,30days,30,2,52,F,94066,D175,Walgreens,11,0,0.71
+P020,Mar 30 2025,Pantoprazole 40mg,60 days,90,,52,F,94066,D175,CVS,$15.62,1,0.76
+P021,2025-01-04,ATORVASTATIN 20MG,90,30,,38,Male,,D272,CSV #98175,20.81,0,0.54
+P021,2-1-25,metformin,90days,30,,38,Male,,D116,Walgreens #60853,$18,0,0.62
+P021,2025-03-07,amlodipine,120,30,2,38,Male,,D160,Walgreens,$7.8,0,0.69
+P022,Jan 02 2025,Metformin HCl,30days,120,,67,m,94103,D213,CVS,$17,0,0.58
+P022,02/03/2025,lisinopril,90,30,,67,m,94103,D154,walgreens pharmacy,12.96,0,0.67
+P023,01/05/2025,amoxicillin,60 days,30,,62,Male,94103,D298,CVS,$21,0,0.48
+P023,2025-01-28,escitalopram,60,90,1,62,Male,94103,D191,CSV #31187,20.97,0,0.57
+P023,2-27-25,ALBUTEROL,90,30,,62,Male,94103,D214,walgreens pharmacy,7.54,1,0.83
+P024,2025-01-06,Metformin HCl,90,120,,84,Male,94110,D275,Walgreens #64261,$17.87,0,0.67
+P024,2025-01-27,Lisinopril,30days,90,,84,Male,94110,D252,Walgreens,17.17,0,0.63
+P024,2025-03-06,Amoxicillin 40mg,120 days,30,,84,Male,94110,D158,Walgreens,$20.86,0,0.58
+P024,Apr 02 2025,AMLODIPINE 5MG,30 days,90,3,84,Male,94110,D123,Walgreens,13.54,1,0.76
+P024,May 01 2025,escitalopram,60,30,,84,Male,94110,D270,Walgreens #55436,16.73,0,0.72
+P025,01/05/2025,lisinopril,60days,60,0,59,F,94107,D295,csv pharmacy,$18.13,0,0.64
+P025,Feb 03 2025,ESCITALOPRAM,30days,90,,59,F,94107,D101,walgreens pharmacy,$5.58,0,0.72
+P025,02/26/2025,levothyroxine,60,30,,59,F,94107,D140,Walgreens #40847,$6,1,0.76
+P025,2025-04-05,escitalopram,30,30,,59,F,94107,D269,walgreens pharmacy,$8.11,1,0.77
+P025,2025-05-02,AMLODIPINE 5MG,90,60,,59,F,94107,D273,Walgreens,20.1,0,0.63
+P026,01/05/2025,pantoprazole,30 days,30,,59,Male,,D183,Walgreens,$9.09,0,0.67
+P026,01/28/2025,ALBUTEROL,60days,120,,59,Male,,D289,CVS,$15.65,0,0.61
+P026,2-26-25,amlodipine,90,120,2,59,Male,,D183,Walgreens,$16,0,0.73
+P027,Jan 02 2025,Escitalopram 10mg,120days,30,,31,M,94066,D299,walgreens pharmacy,12.92,0,0.57
+P027,02/03/2025,Atorvastatin,60,90,,31,M,94066,D150,csv pharmacy,12.02,0,0.7
+P027,2-27-25,escitalopram,120days,120,2,31,M,94066,D212,Walgreens,$20,0,0.55
+P028,Dec 31 2024,Pantoprazole 40mg,120days,120,,55,F,94107,D123,walgreens pharmacy,$5.75,1,0.76
+P028,02/02/2025,Amlodipine,30,120,1,55,F,94107,D215,Walgreens #45016,23.18,0,0.48
+P028,3-5-25,Levothyroxine 200mg,60 days,30,,55,F,94107,D172,CSV #50780,9.95,0,0.71
+P029,12/28/2024,Amlodipine,120,90,,62,M,90210,D179,Walgreens #91552,$10.04,1,0.75
+P029,Jan 28 2025,Pantoprazole 40mg,30 days,90,,62,M,90210,D271,CSV #55497,16.18,0,0.54
+P029,Mar 02 2025,pantoprazole,90,60,2,62,M,90210,D135,CSV #20309,24.02,0,0.54
+P029,04/04/2025,AMOXICILLIN,30,90,3,62,M,90210,D146,csv pharmacy,$22.53,0,0.57
+P029,04/26/2025,Levothyroxine 200mg,120days,90,4,62,M,90210,D236,Walgreens,18,0,0.57
+P030,01/02/2025,ATORVASTATIN 20MG,120,60,,76,Female,94720,D241,walgreens pharmacy,21.34,0,0.51
+P030,01/30/2025,Pantoprazole 40mg,30,60,1,76,Female,94720,D215,Walgreens,10.46,1,0.79
+P030,2025-03-03,AMLODIPINE 5MG,90 days,60,,76,Female,94720,D125,CSV #93678,12,0,0.72
+P030,3-29-25,ESCITALOPRAM,30 days,90,,76,Female,94720,D257,CVS,$23,0,0.61
+P030,Apr 29 2025,Atorvastatin,60days,120,4,76,Female,94720,D161,walgreens pharmacy,$7.22,1,0.99
